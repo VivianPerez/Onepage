@@ -1,0 +1,136 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+#t1 {
+    background-color: #4E89CE;
+    padding: 10px;
+}
+#t1 p img {
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+
+
+
+
+
+#t1 {
+    background-color: #84BAE4;
+    padding: 10px;
+}
+#t3 p img {
+    float: left;
+    clear: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+#Tit {
+    background-color: #9591E8;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+
+#Tit {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #FFFFFF;
+    background-color: #3F58A9;
+}
+#Tit {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #FFFFFF;
+    background-color: #294799;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+#tit {
+    background-color: #CCE5FF;
+    margin-top: 55px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+#tit {
+    background-color: #C1DBFF;
+    padding: 10px;
+}
+#t1 {
+    background-color: #FFE1E1;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t2 {
+    background-color: #D3FFE9;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #FFF9DB;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #F3D6FF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #D4FFDF;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t6 {
+    background-color: #FFEFD6;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#cont #t4 img {
+    float: right;
+    padding-bottom: 10px;
+    padding-right: px;
+    padding-left: 10px;
+}
+#t5 p img {
+    float: left;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+#t6 p img {
+    float: right;
+    clear: right;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#tit p img {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+}
+#menu {
+    margin-top: 0px;
+    margin-bottom: 10px;
+    top: -10px;
+    background-color: #DDFFE4;
+    position: fixed;
+    height: 70px;
+    left: 205px;
+    right: 185px;
+    padding-bottom: 0px;
+    bottom: 0p;
+}
